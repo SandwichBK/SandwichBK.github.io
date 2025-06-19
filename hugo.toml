@@ -1,0 +1,4 @@
+baseURL = "https://SandwichBK.github.io/"
+languageCode = 'zh-cn'
+title = "xyz's Blog"
+theme = 'ananke'
